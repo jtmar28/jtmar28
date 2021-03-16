@@ -14,6 +14,10 @@
 <br>
 <br>
 
+# Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [youtube]: https://www.youtube.com/channel/UCGawlVe9hpXIa-1e3ns4r6A
 [linkedin]: https://www.linkedin.com/in/justin-martinez-9a0624124/
 
