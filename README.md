@@ -16,6 +16,11 @@
 
 # Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [OSI Model | Zack Ward and Justin Martinez](https://www.youtube.com/watch?v=kyBL1X-rPh8)
+- [scratch project](https://www.youtube.com/watch?v=z8ezrt6uy1I)
+- [Standard ACL | JTMar Tech](https://www.youtube.com/watch?v=HGSyfqNjG4M)
+- [HSRP | JTMar Tech](https://www.youtube.com/watch?v=6DYgkdxxGDw)
+- [NTP | JTMar Tech](https://www.youtube.com/watch?v=aiWQtyUWzDk)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
