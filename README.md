@@ -9,12 +9,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="JTMar Tech | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="color:red">][youtube]
-[<img align="left" alt="Justin Martinez | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color:red">][linkedin]
+[<img align="left" alt="JTMar Tech | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg">][youtube]
+[<img align="left" alt="Justin Martinez | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
 <br>
 <br>
 
-## Exmaples of Work
+## Examples of Work
 <a href="https://github.com/jtmar28/Ping_Script" target="_blank"><img src="https://github.com/jtmar28/jtmar28/blob/master/Ping%20Script.gif" width="256"  /></a>
 
 # Latest Youtube Videos
