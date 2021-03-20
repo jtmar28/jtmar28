@@ -14,6 +14,9 @@
 <br>
 <br>
 
+## Exmaples of Work
+<a href="https://github.com/jtmar28/Ping_Script"><img src="https://github.com/jtmar28/jtmar28/blob/master/Ping%20Script.gif" width="256"  /></a>
+
 # Latest Youtube Videos
 <!-- YOUTUBE:START -->
 - [OSI Model | Zack Ward and Justin Martinez](https://www.youtube.com/watch?v=kyBL1X-rPh8)
