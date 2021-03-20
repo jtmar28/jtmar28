@@ -15,7 +15,7 @@
 <br>
 
 ## Exmaples of Work
-<a href="https://github.com/jtmar28/Ping_Script"><img src="https://github.com/jtmar28/jtmar28/blob/master/Ping%20Script.gif" width="256"  /></a>
+<a href="https://github.com/jtmar28/Ping_Script" target="_blank"><img src="https://github.com/jtmar28/jtmar28/blob/master/Ping%20Script.gif" width="256"  /></a>
 
 # Latest Youtube Videos
 <!-- YOUTUBE:START -->
