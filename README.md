@@ -1,4 +1,4 @@
-### Hi there, I'm Justin ✌
+<center><h1>Hi there, I'm Justin ✌</h1></center> 
 
 <img src="https://github.com/jtmar28/jtmar28/blob/master/jtmar%20tech%20banner.png" width="1500"/>
 
