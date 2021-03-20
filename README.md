@@ -1,5 +1,7 @@
 ### Hi there, I'm Justin ✌
 
+<img src="https://github.com/jtmar28/jtmar28/blob/master/jtmar%20tech%20banner.png" width="1500" height="500"/>
+
 ## I'm an aspiring Network Engineer, Guitar Player and Youtuber
 
 - 📘 I'm currently working towards my CCNA 
