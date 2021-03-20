@@ -15,7 +15,7 @@
 <br>
 
 ## Examples of Work
-<a href="https://github.com/jtmar28/Ping_Script" target="_blank"><img src="https://github.com/jtmar28/jtmar28/blob/master/Ping%20Script.gif" width="240" height="180" border="10"/></a>
+[<img src="https://github.com/jtmar28/jtmar28/blob/master/Ping%20Script.gif" width="240" height="180" border="10"/>][pingscript]
 
 # Latest Youtube Videos
 <!-- YOUTUBE:START -->
@@ -29,6 +29,8 @@
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+[pingscript]: https://github.com/jtmar28/Ping_Script
 
 [youtube]: https://www.youtube.com/channel/UCGawlVe9hpXIa-1e3ns4r6A
 [linkedin]: https://www.linkedin.com/in/justin-martinez-9a0624124/
