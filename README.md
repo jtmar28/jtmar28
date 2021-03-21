@@ -18,7 +18,7 @@
 
 ## Examples of Work
 [<img src="https://github.com/jtmar28/jtmar28/blob/master/Ping%20Script.gif" width="240" height="180" border="10"/>][pingscript]
-
+[<img src="https://github.com/jtmar28/jtmar28/blob/master/Verification%20Ping%20Script.gif" width="240" height="180" border="10"/>][verificationpingscript]
 # Latest Youtube Videos
 <!-- YOUTUBE:START -->
 - [OSI Model | Zack Ward and Justin Martinez](https://www.youtube.com/watch?v=kyBL1X-rPh8)
@@ -33,6 +33,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 [pingscript]: https://github.com/jtmar28/Ping_Script
+[verificationpingscript]: https://github.com/jtmar28/Ping-Verification-Script
 
 [youtube]: https://www.youtube.com/channel/UCGawlVe9hpXIa-1e3ns4r6A
 [linkedin]: https://www.linkedin.com/in/justin-martinez-9a0624124/
