@@ -16,7 +16,7 @@
 <br>
 <br>
 
-## Examples of Work
+## Python Scripting
 [<img src="https://github.com/jtmar28/jtmar28/blob/master/Ping%20Script.gif" width="240" height="180" border="10"/>][pingscript]
 [<img src="https://github.com/jtmar28/jtmar28/blob/master/Verification%20Ping%20Script.gif" width="240" height="180" border="10"/>][verificationpingscript]
 # Latest Youtube Videos
