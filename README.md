@@ -19,6 +19,8 @@
 ## Python Scripting
 [<img src="https://github.com/jtmar28/jtmar28/blob/master/Ping%20Script.gif" width="240" height="180" border="10"/>][pingscript]
 [<img src="https://github.com/jtmar28/jtmar28/blob/master/Verification%20Ping%20Script.gif" width="240" height="180" border="10"/>][verificationpingscript]
+[<img src="https://github.com/jtmar28/jtmar28/blob/master/ExcelValue.gif" width="240" height="180" border="10"/>][excelgetvalue]
+
 # Latest Youtube Videos
 <!-- YOUTUBE:START -->
 - [OSI Model | Zack Ward and Justin Martinez](https://www.youtube.com/watch?v=kyBL1X-rPh8)
@@ -32,6 +34,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+[excelgetvalue]: https://github.com/jtmar28/Automating-Excel-Tasks
 [pingscript]: https://github.com/jtmar28/Ping_Script
 [verificationpingscript]: https://github.com/jtmar28/Ping-Verification-Script
 
