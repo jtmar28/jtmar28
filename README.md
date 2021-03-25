@@ -5,7 +5,7 @@
 ## I'm an aspiring Network Engineer, Guitar Player and Youtuber
 
 - 📘 I'm currently working towards my CCNA 
-- 💻 Willing to talk technology
+- 💻 Love talking about technology
 - 🎯 2021 Goals: Make 600 git commits
 - ✈ Fun fact: I love Hiking and exploring 
 
