@@ -16,10 +16,11 @@
 <br>
 <br>
 
-## Python Scripting
-[<img src="https://github.com/jtmar28/jtmar28/blob/master/Ping%20Script.gif" width="240" height="180" border="10"/>][pingscript]
-[<img src="https://github.com/jtmar28/jtmar28/blob/master/Verification%20Ping%20Script.gif" width="240" height="180" border="10"/>][verificationpingscript]
-[<img src="https://github.com/jtmar28/jtmar28/blob/master/ExcelValue.gif" width="240" height="180" border="10"/>][excelgetvalue]
+## Python Scripting / Automating boring excel
+[<img src="https://github.com/jtmar28/jtmar28/blob/master/Ping%20Script.gif" width="250" height="190" border="10"/>][pingscript]
+[<img src="https://github.com/jtmar28/jtmar28/blob/master/Verification%20Ping%20Script.gif" width="250" height="190" border="10"/>][verificationpingscript]
+[<img src="https://github.com/jtmar28/jtmar28/blob/master/ExcelValue.gif" width="250" height="190" border="10"/>][excelgetvalue]
+[<img src="https://github.com/jtmar28/jtmar28/blob/master/fomulas.gif" width="250" height="190" border="10"/>][excelautoformula]
 
 # Latest Youtube Videos
 <!-- YOUTUBE:START -->
@@ -36,7 +37,8 @@
 
 [excelgetvalue]: https://github.com/jtmar28/Automating-Excel-Tasks
 [pingscript]: https://github.com/jtmar28/Ping_Script
-[verificationpingscript]: https://github.com/jtmar28/Ping-Verification-Script
+[verificationpingscript]: https://github.com/jtmar28/Automating-Excel-Tasks/tree/main/GetValue
+[excelautoformula]: https://github.com/jtmar28/Automating-Excel-Tasks/tree/main/Formulas
 
 [youtube]: https://www.youtube.com/channel/UCGawlVe9hpXIa-1e3ns4r6A
 [linkedin]: https://www.linkedin.com/in/justin-martinez-9a0624124/
