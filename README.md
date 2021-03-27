@@ -1,6 +1,6 @@
 <center><h1>Hi there, I'm Justin <img src="https://github.com/jtmar28/jtmar28/blob/master/peace.gif" width="28px" alt="hi"></h1></center> 
 
-<img src="https://github.com/jtmar28/jtmar28/blob/master/jtmar%20tech%20banner.png" width="1500"/>
+<img src="https://github.com/jtmar28/jtmar28/blob/master/banner.gif" width="1500"/>
 
 ## I'm an aspiring Network Engineer, Guitar Player and Youtuber
 
