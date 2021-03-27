@@ -15,10 +15,10 @@
 <br>
 
 ## Python Scripting / Automating Excel
-[<img src="https://github.com/jtmar28/jtmar28/blob/master/Ping%20Script.gif" width="240" height="180" border="10"/>][pingscript]
-[<img src="https://github.com/jtmar28/jtmar28/blob/master/Verification%20Ping%20Script.gif" width="240" height="180" border="10"/>][verificationpingscript]
-[<img src="https://github.com/jtmar28/jtmar28/blob/master/ExcelValue.gif" width="240" height="180" border="10"/>][excelgetvalue]
-[<img src="https://github.com/jtmar28/jtmar28/blob/master/fomulas.gif" width="240" height="180" border="10"/>][excelautoformula]
+[<img src="https://github.com/jtmar28/jtmar28/blob/master/Ping%20Script.gif" width="260" height="200" border="10"/>][pingscript]
+[<img src="https://github.com/jtmar28/jtmar28/blob/master/Verification%20Ping%20Script.gif" width="260" height="200" border="10"/>][verificationpingscript]
+[<img src="https://github.com/jtmar28/jtmar28/blob/master/ExcelValue.gif" width="260" height="200" border="10"/>][excelgetvalue]
+[<img src="https://github.com/jtmar28/jtmar28/blob/master/fomulas.gif" width="260" height="200" border="10"/>][excelautoformula]
 
 # Latest Youtube Videos
 <!-- YOUTUBE:START -->
