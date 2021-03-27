@@ -19,6 +19,8 @@
 [<img src="https://github.com/jtmar28/jtmar28/blob/master/Verification%20Ping%20Script.gif" width="260" height="200" border="10"/>][verificationpingscript]
 [<img src="https://github.com/jtmar28/jtmar28/blob/master/ExcelValue.gif" width="260" height="200" border="10"/>][excelgetvalue]
 [<img src="https://github.com/jtmar28/jtmar28/blob/master/fomulas.gif" width="260" height="200" border="10"/>][excelautoformula]
+[<img src="https://github.com/jtmar28/jtmar28/blob/master/Search.gif" width="260" height="200" border="10"/>][excelsearch]
+[<img src="https://github.com/jtmar28/jtmar28/blob/master/Merge.gif" width="260" height="200" border="10"/>][excelmerge]
 
 # Latest Youtube Videos
 <!-- YOUTUBE:START -->
@@ -30,6 +32,7 @@
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
+- <strong><em>Coming soon...</em></strong>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -37,5 +40,7 @@
 [pingscript]: https://github.com/jtmar28/Ping_Script
 [verificationpingscript]: https://github.com/jtmar28/Automating-Excel-Tasks/tree/main/GetValue
 [excelautoformula]: https://github.com/jtmar28/Automating-Excel-Tasks/tree/main/Formulas
+[excelsearch]: https://github.com/jtmar28/Automating-Excel-Tasks/tree/main/Merge
+[excelmerge]: https://github.com/jtmar28/Automating-Excel-Tasks/tree/main/SearchAndFilter
 
 
