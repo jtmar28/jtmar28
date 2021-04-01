@@ -21,16 +21,16 @@
     Skill Statements
   </summary>
   <ul>
-    <li><strong>Troubleshooting</strong> - <p>Diagnosed common operating system issues using Windows 10 troubleshooting tools that includes Quick Assist tool, Steps Recorder, Reliability Monitor, Credential Manager, LLTD Mapper, RegEdit and Task scheduler. </p></li>
-    <li><strong>Presentation</strong> - <p>Presented a day in life of a IBIT(introduction to business information technology) student presentation to the new winter 2021 Term batch.</p></li>
-    <li><strong>Time Management/Adaptability</strong> - <p>Adapt to a new pandemic school schedule in an online environment and learned to plan out my day according to the procedures created by myself.</p></li>
-    <li><strong>Tutor</strong> - <p>Guide other term 1 colleagues on any questions that were given to me. These subjects included math and programming fundamentals.</p></li>
-    <li><strong>Documentation</strong> - <p>Created the Runbook (Information technology Industry terminology) on time management for the Bits and Bytes association to emphasize how important it is.</p></li>
-    <li><strong>Customer Service</strong> - <p>Trained myself to provide quality customer service in a help desk role by learning about common customer scenarios that IT Help desk employees face such as the impassioned, combative, chatty, a timid customers.</p></li>
-    <li><strong>Teamwork</strong> - <p>Create meaningful relationships with pre-assigned partners to provide quality presentations for professional development/Communication classes. </p></li>
-    <li><strong>Stress Management</strong> - <p>Combatted the stresses of the pandemic by using a workout regimen that comprise of meditation and stationary biking. </p></li>
-    <li><strong>Volunteer Projects</strong> - <p>Volunteered to help maintain the Bits and Bytes Association website and planned with other members to update key components.</p></li>
-    <li><strong>Self-Motivation</strong> - <p>Encourage myself to learn new emerging technology by actively participating in community events held online such as Q/A with local industry leaders, Bits and Bytes executive meetings and the Winnipeg Game Collective discord group.</p></li>
+    <li><strong>Troubleshooting</strong> 🛠 <p>Diagnosed common operating system issues using Windows 10 troubleshooting tools that includes Quick Assist tool, Steps Recorder, Reliability Monitor, Credential Manager, LLTD Mapper, RegEdit and Task scheduler. </p></li>
+    <li><strong>Presentation</strong> 📈 <p>Presented a day in life of a IBIT(introduction to business information technology) student presentation to the new winter 2021 Term batch.</p></li>
+    <li><strong>Time Management/Adaptability</strong> ⏱ <p>Adapt to a new pandemic school schedule in an online environment and learned to plan out my day according to the procedures created by myself.</p></li>
+    <li><strong>Tutor</strong> 🎓 <p>Guide other term 1 colleagues on any questions that were given to me. These subjects included math and programming fundamentals.</p></li>
+    <li><strong>Documentation</strong> 📃 <p>Created the Runbook (Information technology Industry terminology) on time management for the Bits and Bytes association to emphasize how important it is.</p></li>
+    <li><strong>Customer Service</strong> 🤗 <p>Trained myself to provide quality customer service in a help desk role by learning about common customer scenarios that IT Help desk employees face such as the impassioned, combative, chatty, a timid customers.</p></li>
+    <li><strong>Teamwork</strong> 💪 <p>Create meaningful relationships with pre-assigned partners to provide quality presentations for professional development/Communication classes. </p></li>
+    <li><strong>Stress Management</strong> 🥱 <p>Combatted the stresses of the pandemic by using a workout regimen that comprise of meditation and stationary biking. </p></li>
+    <li><strong>Volunteer Projects</strong> 🎖 <p>Volunteered to help maintain the Bits and Bytes Association website and planned with other members to update key components.</p></li>
+    <li><strong>Self-Motivation</strong> 🏃‍♂️ <p>Encourage myself to learn new emerging technology by actively participating in community events held online such as Q/A with local industry leaders, Bits and Bytes executive meetings and the Winnipeg Game Collective discord group.</p></li>
   </ul>
 </details>
 <br>
