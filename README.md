@@ -33,7 +33,6 @@
     <li><strong>Self-Motivation</strong> 🏃‍♂️ <p>Encourage myself to learn new emerging technology by actively participating in community events held online such as Q/A with local industry leaders, Bits and Bytes executive meetings and the Winnipeg Game Collective discord group.</p></li>
   </ul>
 </details>
-<br>
 
 ## Python Scripting / Automating Excel
 [<img src="https://github.com/jtmar28/jtmar28/blob/master/Ping%20Script.gif" width="260" height="200" border="10"/>][pingscript]
