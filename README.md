@@ -45,12 +45,12 @@
 ## Wireshark packet analysis/forensics
 <details>
   <summary>More...</summary>
-  [<img src="https://github.com/jtmar28/jtmar28/blob/master/smtp.gif" width="260" height="200" border="10"/>][smtppacket]
-  [<img src="https://github.com/jtmar28/jtmar28/blob/master/synackfin.gif" width="260" height="200" border="10"/>][synackfin]
-  [<img src="https://github.com/jtmar28/jtmar28/blob/master/icmp1.gif" width="260" height="200" border="10"/>][icmppacket]
-  [<img src="https://github.com/jtmar28/jtmar28/blob/master/icmp.gif" width="260" height="200" border="10"/>][icmppacket]
-  [<img src="https://github.com/jtmar28/jtmar28/blob/master/tcp.gif" width="260" height="200" border="10"/>][tcppacket]
-  [<img src="https://github.com/jtmar28/jtmar28/blob/master/endtoend.gif" width="260" height="200" border="10"/>][endtoendpacket]
+  <a href="https://github.com/jtmar28/Wireshark-Captures/tree/main/SMTP" ><img src="https://github.com/jtmar28/jtmar28/blob/master/smtp.gif" width="260" height="200" border="10"/></a>
+  <a href="https://github.com/jtmar28/Wireshark-Captures/tree/main/TCP%20handshake%20and%20teardown" ><img src="https://github.com/jtmar28/jtmar28/blob/master/synackfin.gif" width="260" height="200" border="10"/></a>
+  <a href="https://github.com/jtmar28/Wireshark-Captures/tree/main/ICMP" ><img src="https://github.com/jtmar28/jtmar28/blob/master/icmp1.gif" width="260" height="200" border="10"/></a>
+  <a href="https://github.com/jtmar28/Wireshark-Captures/tree/main/ICMP" ><img src="https://github.com/jtmar28/jtmar28/blob/master/icmp.gif" width="260" height="200" border="10"/></a>
+  <a href="https://github.com/jtmar28/Wireshark-Captures/tree/main/TCP" ><img src="https://github.com/jtmar28/jtmar28/blob/master/tcp.gif" width="260" height="200" border="10"/></a>
+  <a href="https://github.com/jtmar28/Wireshark-Captures/tree/main/DNS%20DHCP%20and%20FTP" ><img src="https://github.com/jtmar28/jtmar28/blob/master/endtoend.gif" width="260" height="200" border="10"/></a>
 </details>
 
 # Latest Youtube Videos
