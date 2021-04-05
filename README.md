@@ -42,8 +42,9 @@
 [<img src="https://github.com/jtmar28/jtmar28/blob/master/Search.gif" width="260" height="200" border="10"/>][excelsearch]
 [<img src="https://github.com/jtmar28/jtmar28/blob/master/Merge.gif" width="260" height="200" border="10"/>][excelmerge]
 
+## Wireshark packet analysis/forensics
 <details>
-  <summary>## Wireshark packet analysis/forensics</summary>
+  <summary>More...</summary>
   [<img src="https://github.com/jtmar28/jtmar28/blob/master/smtp.gif" width="260" height="200" border="10"/>][smtppacket]
   [<img src="https://github.com/jtmar28/jtmar28/blob/master/synackfin.gif" width="260" height="200" border="10"/>][synackfin]
   [<img src="https://github.com/jtmar28/jtmar28/blob/master/icmp1.gif" width="260" height="200" border="10"/>][icmppacket]
