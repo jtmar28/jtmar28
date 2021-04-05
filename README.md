@@ -42,6 +42,16 @@
 [<img src="https://github.com/jtmar28/jtmar28/blob/master/Search.gif" width="260" height="200" border="10"/>][excelsearch]
 [<img src="https://github.com/jtmar28/jtmar28/blob/master/Merge.gif" width="260" height="200" border="10"/>][excelmerge]
 
+<details>
+  <summary>## Wireshark packet analysis/forensics</summary>
+  [<img src="https://github.com/jtmar28/jtmar28/blob/master/smtp.gif" width="260" height="200" border="10"/>][smtppacket]
+  [<img src="https://github.com/jtmar28/jtmar28/blob/master/synackfin.gif" width="260" height="200" border="10"/>][synackfin]
+  [<img src="https://github.com/jtmar28/jtmar28/blob/master/icmp1.gif" width="260" height="200" border="10"/>][icmppacket]
+  [<img src="https://github.com/jtmar28/jtmar28/blob/master/icmp.gif" width="260" height="200" border="10"/>][icmppacket]
+  [<img src="https://github.com/jtmar28/jtmar28/blob/master/tcp.gif" width="260" height="200" border="10"/>][tcppacket]
+  [<img src="https://github.com/jtmar28/jtmar28/blob/master/endtoend.gif" width="260" height="200" border="10"/>][endtoendpacket]
+</details>
+
 # Latest Youtube Videos
 <!-- YOUTUBE:START -->
 - [OSI Model | Zack Ward and Justin Martinez](https://www.youtube.com/watch?v=kyBL1X-rPh8)
@@ -63,4 +73,8 @@
 [excelsearch]: https://github.com/jtmar28/Automating-Excel-Tasks/tree/main/Merge
 [excelmerge]: https://github.com/jtmar28/Automating-Excel-Tasks/tree/main/SearchAndFilter
 
-
+[tcppacket]: https://github.com/jtmar28/Wireshark-Captures/tree/main/TCP
+[synackfin]: https://github.com/jtmar28/Wireshark-Captures/tree/main/TCP%20handshake%20and%20teardown
+[icmppacket]: https://github.com/jtmar28/Wireshark-Captures/tree/main/ICMP
+[smtppacket]: https://github.com/jtmar28/Wireshark-Captures/tree/main/SMTP
+[endtoendpacket]: https://github.com/jtmar28/Wireshark-Captures/tree/main/DNS%20DHCP%20and%20FTP
