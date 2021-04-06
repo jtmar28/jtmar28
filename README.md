@@ -22,11 +22,11 @@
   </summary>
   <ul>
     <li>
-      <detail> 
+      <details> 
         <summary>
           <strong>Troubleshooting</strong> 🛠 
         </summary> <p>Diagnosed common operating system issues using Windows 10 troubleshooting tools that includes Quick Assist tool, Steps Recorder, Reliability Monitor, Credential Manager, LLTD Mapper, RegEdit and Task scheduler. </p>
-      </detail>
+      </details>
     </li>
     <li><strong>Presentation</strong> 📈 <p>Presented a day in life of a IBIT(introduction to business information technology) student presentation to the new winter 2021 Term batch.</p></li>
     <li><strong>Time Management/Adaptability</strong> ⏱ <p>Adapt to a new pandemic school schedule in an online environment and learned to plan out my day according to the procedures created by myself.</p></li>
