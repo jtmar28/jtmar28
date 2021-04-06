@@ -21,7 +21,13 @@
     Skill Statements
   </summary>
   <ul>
-    <li><strong>Troubleshooting</strong> 🛠 <p>Diagnosed common operating system issues using Windows 10 troubleshooting tools that includes Quick Assist tool, Steps Recorder, Reliability Monitor, Credential Manager, LLTD Mapper, RegEdit and Task scheduler. </p></li>
+    <li>
+      <detail> 
+        <summary>
+          <strong>Troubleshooting</strong> 🛠 
+        </summary> <p>Diagnosed common operating system issues using Windows 10 troubleshooting tools that includes Quick Assist tool, Steps Recorder, Reliability Monitor, Credential Manager, LLTD Mapper, RegEdit and Task scheduler. </p>
+      </detail>
+    </li>
     <li><strong>Presentation</strong> 📈 <p>Presented a day in life of a IBIT(introduction to business information technology) student presentation to the new winter 2021 Term batch.</p></li>
     <li><strong>Time Management/Adaptability</strong> ⏱ <p>Adapt to a new pandemic school schedule in an online environment and learned to plan out my day according to the procedures created by myself.</p></li>
     <li><strong>Tutor</strong> 🎓 <p>Guide other term 1 colleagues on any questions that were given to me. These subjects included math and programming fundamentals.</p></li>
