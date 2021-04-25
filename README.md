@@ -104,6 +104,14 @@
   <a href="https://github.com/jtmar28/Wireshark-Captures/tree/main/DNS%20DHCP%20and%20FTP" ><img src="https://github.com/jtmar28/jtmar28/blob/master/endtoend.gif" width="260" height="200" border="10"/></a>
 </details>
 
+## Malicious attack forensics
+<details>
+  <summary>More...</summary>
+  <a href="https://github.com/jtmar28/Malicious-attack-captures/blob/main/arp-storm%20.pcapng" ><img src="https://github.com/jtmar28/jtmar28/blob/master/ArpStorm.gif" width="260" height="200" border="10"/></a>
+  <a href="https://github.com/jtmar28/Malicious-attack-captures/blob/main/sec-macof.pcapng" ><img src="https://github.com/jtmar28/jtmar28/blob/master/MacOfAttack.gif" width="260" height="200" border="10"/></a>
+  <a href="https://github.com/jtmar28/Malicious-attack-captures/blob/main/video_multicast.cap.gz" ><img src="https://github.com/jtmar28/jtmar28/blob/master/BurstyTraffic.gif" width="260" height="200" border="10"/></a>
+</details>
+
 # Latest Youtube Videos
 <!-- YOUTUBE:START -->
 - [OSI Model | Zack Ward and Justin Martinez](https://www.youtube.com/watch?v=kyBL1X-rPh8)
