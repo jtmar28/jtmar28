@@ -114,11 +114,11 @@
 
 # Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Cisco Systems Inc Stock (CSCO) Presentation | Justin Martinez](https://www.youtube.com/watch?v=RuugXRE4PoA)
 - [Cisco 3BL Presentation by Justin Martinez, Dillion McTaggart and Richard Vavro](https://www.youtube.com/watch?v=L1OmB_F4c40)
 - [Virtual Reality Aerospace Manufacturing Proposal Presentation | Justin, Mikayla and Ryan](https://www.youtube.com/watch?v=_NC5QiHrehM)
 - [OSI Model | Zack Ward and Justin Martinez](https://www.youtube.com/watch?v=kyBL1X-rPh8)
 - [scratch project](https://www.youtube.com/watch?v=z8ezrt6uy1I)
-- [Standard ACL | JTMar Tech](https://www.youtube.com/watch?v=HGSyfqNjG4M)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
