@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[![Mail Badge](https://img.shields.io/badge/-JTMAR_Tech-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGawlVe9hpXIa-1e3ns4r6A) [![Linkedin Badge](https://img.shields.io/badge/-Justin_Martinez-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-martinez-9a0624124/) [![Mail Badge](https://img.shields.io/badge/-Justin_M-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:justinmartinez0123@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-JTMAR_Tech-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGawlVe9hpXIa-1e3ns4r6A) [![Linkedin Badge](https://img.shields.io/badge/-Justin_Martinez-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-t-martinez/) [![Mail Badge](https://img.shields.io/badge/-Justin_M-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:justinmartinez0123@gmail.com)
 <br>
 ## Business:
 - :paperclip: [My Resume/CV](https://github.com/jtmar28/jtmar28/blob/master/Justin%20Martinez%20Resume.pdf)
