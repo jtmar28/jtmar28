@@ -115,10 +115,10 @@
 # Latest Youtube Videos
 <!-- YOUTUBE:START -->
 - [Arturio Elizondo Presentation 30 under 30](https://www.youtube.com/watch?v=J_Ap8a_vtPA)
-- [Huawei Presentation Justin & Stacie](https://www.youtube.com/watch?v=93-cnWiHqaE)
+- [Huawei Presentation Justin &amp; Stacie](https://www.youtube.com/watch?v=93-cnWiHqaE)
 - [Amazon Confirmation Bias Presentation](https://www.youtube.com/watch?v=Ce8zTEQfBDs)
-- [Netflix PESTEL analysis presentation | Justin, Derrick, Anastasya & Richard | 2021](https://www.youtube.com/watch?v=WgEWxv514VU)
-- [Cisco Systems Inc Stock (CSCO) Presentation | Justin Martinez](https://www.youtube.com/watch?v=RuugXRE4PoA)
+- [Netflix PESTEL analysis presentation | Justin, Derrick, Anastasya &amp; Richard | 2021](https://www.youtube.com/watch?v=WgEWxv514VU)
+- [Cisco Systems Inc Stock &lpar;CSCO&rpar; Presentation | Justin Martinez](https://www.youtube.com/watch?v=RuugXRE4PoA)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
