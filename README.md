@@ -114,11 +114,11 @@
 
 # Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Learning remotely presentation | Justin &amp; Stacie](https://www.youtube.com/watch?v=a0GWtuFnlU8)
 - [Data Collection Privacy | Justin &amp; Stacie](https://www.youtube.com/watch?v=wccbrJggTdM)
 - [Arturio Elizondo Presentation 30 under 30](https://www.youtube.com/watch?v=J_Ap8a_vtPA)
 - [Huawei Presentation Justin &amp; Stacie](https://www.youtube.com/watch?v=93-cnWiHqaE)
 - [Amazon Confirmation Bias Presentation](https://www.youtube.com/watch?v=Ce8zTEQfBDs)
-- [Netflix PESTEL analysis presentation | Justin, Derrick, Anastasya &amp; Richard | 2021](https://www.youtube.com/watch?v=WgEWxv514VU)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
